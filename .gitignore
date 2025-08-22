@@ -1,0 +1,17 @@
+# User-specific files
+storeimages/*
+screenshots/*
+log/*
+crashdump/*
+conf/*
+characterdata/*
+cache/*
+localhost.exe
+log/*
+minimap/*
+
+# Assets backup files
+*-bak
+
+# Local Files
+*-local*
