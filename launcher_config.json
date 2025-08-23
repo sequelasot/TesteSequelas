@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.40.13567",
+	"clientVersion": "13.40.13560",
 	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -13,8 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "PindaOT",
-	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/13.40.13567/tibia.zip",
-	"clientExecutable": "client_retro.exe",
-	"clientOpenExecutable": "client_open.exe"
+	"clientFolder": "SequelasOt",
+	"newClientUrl" : "https://github.com/sequelasot/TesteSequelas/releases/download/client.zip/sequelaOt.zip",
+	"clientExecutable": "client.exe",
 }
